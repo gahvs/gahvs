@@ -6,7 +6,7 @@
 - :school: I'm currently studying at the [Universidade Estadual de Montes Claros](https://unimontes.br/)
 - 🔭 I’m currently working on NM Way Project
 - :chart_with_downwards_trend: I’m currently learning Multiobjective optimization 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gabriel-abreu-35179a160) +55 038 988604430
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gabriel-abreu-35179a160) or +55 038 988604430
 - :heavy_check_mark: C/C++
 - :heavy_check_mark: Python
 - :heavy_check_mark: JavaScript
